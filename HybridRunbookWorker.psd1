@@ -27,7 +27,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) 2016 Ben Gelens. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'DSC Resource to enable or disable the Hybrid Runbook Worker functionality of OMS managed machine'
+Description = 'DEPRECATED. This module is not being maintained and will be unlisted from the gallery eventually. Use HybridRunbookWorkerDsc from now on: https://www.powershellgallery.com/packages/HybridRunbookWorkerDsc '
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''
@@ -104,7 +104,7 @@ PrivateData = @{
         # IconUri = ''
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = 'DEPRECATED. This module is not being maintained and will be unlisted from the gallery eventually. Use HybridRunbookWorkerDsc from now on: https://www.powershellgallery.com/packages/HybridRunbookWorkerDsc '
 
     } # End of PSData hashtable
 

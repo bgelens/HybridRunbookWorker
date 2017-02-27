@@ -1,4 +1,9 @@
-# HybridRunbookWorker
+# DEPRECATED! HybridRunbookWorker
+This module is not being maintained and will be unlisted from the gallery eventually. 
+Use HybridRunbookWorkerDsc from now on: 
+* https://www.powershellgallery.com/packages/HybridRunbookWorkerDsc
+* https://github.com/bgelens/HybridRunbookWorkerDsc
+
 DSC Resource to enable or disable the Hybrid Runbook Worker functionality of OMS managed machine
 
 ## Initial Release
